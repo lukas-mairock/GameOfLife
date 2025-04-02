@@ -1,4 +1,4 @@
-# GameOfLife_SDL
+# GameOfLife
 An implementation of John Conway's Game of Life in C using the SDL Librarry
 
 Use the makefile or
